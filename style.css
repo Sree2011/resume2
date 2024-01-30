@@ -16,6 +16,7 @@ h2 {
 }
 
 h3 {
+	display: inline;
 	text-align: left;
 	font-size: 14pt;
 	font-weight: bold;
