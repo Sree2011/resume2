@@ -1,0 +1,29 @@
+body {
+	font-family: 'Times New Roman', 'Calibri';
+}
+
+h1 {
+	text-align: center;
+	font-size: 28pt;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+h3 {
+	text-align: left;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+h4 {
+	display: inline;
+	text-align: right;
+	font-size: 14pt;
+	font-weight: normal;
+
+}
