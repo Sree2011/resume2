@@ -1,0 +1,28 @@
+title: Resume - Sree Sai Nandini Gundraju
+description: Resume using markdown and github pages jekyll themes
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+
+relative_links:
+  enabled: true
+  collections: true
+include:
+ - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+
+remote_theme: jglovier/resume-template
+
+#theme: minimal-mistakes-jekyll
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
